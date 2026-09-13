@@ -1,0 +1,238 @@
+{
+  "GameTime": "1923-01-04T00:00:00",
+  "CreationDate": "1923-01-01T00:00:00",
+  "Statistics": {
+    "Satisfaction": 100,
+    "Budget": {
+      "Balance": 90000,
+      "CurrentTax": 100,
+      "CurrentTaxRate": 0.4,
+      "MaintenanceFeeForEverything": 9500,
+      "DateOfStartingLoan": "0001-01-01T00:00:00"
+    }
+  },
+  "CityRegistry": {
+    "Statistics": {
+      "Satisfaction": 0,
+      "Budget": {
+        "Balance": 90500,
+        "CurrentTax": 100,
+        "CurrentTaxRate": 0.4,
+        "MaintenanceFeeForEverything": 10000,
+        "DateOfStartingLoan": "0001-01-01T00:00:00"
+      }
+    },
+    "Zones": [],
+    "Facilities": [],
+    "SchoolCount": 0,
+    "UniversityCount": 0,
+    "PoliceCount": 0,
+    "StadiumCount": 0,
+    "RoadCount": 20
+  },
+  "Roads": [
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "8,9;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "7,8;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "7,7;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "8,7;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "10,7;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "11,7;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "12,8;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "13,8;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "14,9;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "15,9;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "14,10;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "13,10;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "12,11;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "11,11;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "8,10;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "7,10;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "7,11;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "8,12;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "10,12;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    },
+    {
+      "IsConnected": false,
+      "CurrentCapacity": 0,
+      "Coor": "9,9;",
+      "Type": 9,
+      "ConstructionCost": 500,
+      "InfluenceRadius": 0,
+      "Capacity": 0,
+      "MaintenanceCost": 500
+    }
+  ],
+  "MaxDistance": 40,
+  "MaxTax": 1000,
+  "latestDisaster": null
+}
