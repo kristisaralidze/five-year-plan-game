@@ -4,7 +4,8 @@ A city-building simulation game written in C# with MonoGame. The player zones la
 builds infrastructure, balances a budget, and keeps a population happy while disasters
 periodically undo the work.
 
-Built as a university project.
+Built as a university project by **Kristine Saralidze**, **Cristian Stinca**, and
+**Toma Sulava-Sulaberidze**.
 
 ## Gameplay
 
@@ -57,6 +58,13 @@ dotnet run
 
 C#, MonoGame Framework (DesktopGL), MonoGame.Extended
 
+## Authors
+
+- Kristine Saralidze
+- Cristian Stinca
+- Toma Sulava-Sulaberidze
+
 ## Licence
 
-Copyright (c) Kristine Saralidze. All rights reserved.
+Copyright (c) 2024 Kristine Saralidze, Cristian Stinca, Toma Sulava-Sulaberidze.
+All rights reserved. See [LICENSE](./LICENSE).
